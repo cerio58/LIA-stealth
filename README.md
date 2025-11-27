@@ -1,6 +1,6 @@
 # LIA – Latino Intelligent Agent 🌟
 
-**100 % open-source, multimodal AI that generates 4K videos with auto-regenerative .htba extension, ethical face-swap and loss-less upscaler.**
+**100 % open-source, multimodal AI that generates 4K videos with auto-regenerative Ratbah (.bah) extension, ethical face-swap and loss-less upscaler.**
 
 ![Powered by Kimi](https://img.shields.io/badge/Powered%20by-Kimi-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
